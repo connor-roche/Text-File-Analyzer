@@ -1,4 +1,4 @@
-# Text-File-Analyzer
+# Text File Analyzer
 
 The program reads in text files and determines information about the longest word and longest line in each file.
 
